@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Bytecode and compiled files
+__pycache__/
+*.pyc
+
+# Reports
+mcp_report_*.json
+
+# Working repos
+working_repos/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
